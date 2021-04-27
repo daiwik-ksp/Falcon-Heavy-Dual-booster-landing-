@@ -1,4 +1,4 @@
-# Falcon-Heavy-Dual-booster-landing-
+# Falcon-Heavy-Dual-booster-landing-Script
 
 Steps : 
 
