@@ -12,4 +12,7 @@ Then right clik on the nose cone of the boosters and change the name tag to B1 f
 Action Groups:  
 1 to change the engine mode.  
 2 to on/off booster engines.   
-5 to toggle soot.  
+4 to retract strong back.
+5 to toggle soot. 
+
+
