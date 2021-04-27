@@ -9,7 +9,7 @@ Put Fh_landSideBooster.ks on side booster cpu.
 
 Then right clik on the nose cone of the boosters and change the name tag to B1 for the first booster and B2 for the second booster.
 
-Action Groups:
+Action Groups:  
 1 to change the engine mode.  
 2 to on/off booster engines.   
 5 to toggle soot.  
